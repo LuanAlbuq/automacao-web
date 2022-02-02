@@ -22,7 +22,7 @@ Usando as bibliotecas pyautogui, pyperclip, time e pandas.
 - pyautogui - permite que scripts em Python controle tanto o mouse quanto o teclado.
 - piperclip - permite usarmos em scripts atalhos como copiar e colar.
 - time - permite usarmos funções e constantes que medem o tempo.            
-- pandas - fornece ferramentas para análise e manipulação de dados.                           
+- pandas - fornece ferramentas para análise e manipulação de dados.     
 
 # Autor
 
