@@ -4,7 +4,7 @@
 # Sobre o projeto
 
 O projeto consiste em uma automação que irá baixar qualquer database através de um link já pré-definido, 
-fará agregações na tabela e enviará essas agregações em forma de relatório para o e-mail que definir dentro do código.        
+irá ler e fará agregações na tabela e enviará essas agregações em forma de relatório para o e-mail que definir dentro do código.        
 
 
 ## Database usada
